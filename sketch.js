@@ -12,10 +12,10 @@ var thunderCreatedFrame = 0;
 
 function preload(){
     back_img = loadImage("bg.gif");
-    thun1 = loadImage("thunderbolt/1.png");
-    thun2 = loadImage("thunderbolt/2.png");
-    thun3 = loadImage("thunderbolt/3.png");
-    thun4 = loadImage("thunderbolt/4.png");
+    thun1 = loadImage("1.png");
+    thun2 = loadImage("2.png");
+    thun3 = loadImage("3.png");
+    thun4 = loadImage("4.png");
 }
 
 function setup(){
